@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-SendBirdUIKit-Sample/Pods-SendBirdUIKit-Sample-frameworks.sh
+${PODS_ROOT}/SendBirdSDK/SendBirdSDK.framework
+${PODS_ROOT}/SendBirdSDK/SendBirdSDK.framework.dSYM
+${PODS_ROOT}/SendBirdUIKit/SendBirdUIKit.framework
+${PODS_ROOT}/SendBirdUIKit/SendBirdUIKit.framework.dSYM

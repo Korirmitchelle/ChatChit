@@ -1,0 +1,20 @@
+PODS:
+  - SendBirdSDK (3.0.177)
+  - SendBirdUIKit (1.0.1):
+    - SendBirdSDK (~> 3.0.175)
+
+DEPENDENCIES:
+  - SendBirdUIKit
+
+SPEC REPOS:
+  trunk:
+    - SendBirdSDK
+    - SendBirdUIKit
+
+SPEC CHECKSUMS:
+  SendBirdSDK: 7e271e1945ac82dd8c504406c5e04947577d524b
+  SendBirdUIKit: 61520ceab1cec85df0428de236c0cd450bf7854c
+
+PODFILE CHECKSUM: f88ab86afcb74e8432f2823198063f649ea3da66
+
+COCOAPODS: 1.8.4
